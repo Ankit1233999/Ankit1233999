@@ -34,12 +34,13 @@ B.Tech Computer Science Student | Aspiring Software Engineer
 
 ### 🚀 My Projects
 
-- College Platform
-- Amazon Clone
 - AgileFlow – Agile Management Tool
-- Student Management System
-- Portfolio Website
-- Linked List Visualizer
+- Amazon Clone
+- College platform
+- E commerce platform project
+- Leet code problem solve
+
+
 
 ---
 
