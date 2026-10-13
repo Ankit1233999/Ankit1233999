@@ -41,6 +41,21 @@ B.Tech Computer Science Student | Aspiring Software Engineer
 - Leet code problem solve
 
 
+## 💼 Internship Experience
+
+### Web Development Intern — Zaalima Development
+*August 2026 – Present*
+
+- Working on web development projects and building user-friendly web applications.
+- Developing and improving application features using web technologies.
+- Performing application testing, debugging, and fixing issues.
+- Collaborating with team members to deliver project tasks.
+- Taking team leadership responsibilities by assigning tasks and coordinating team activities.
+- Improving my skills in frontend development, problem-solving, and teamwork.
+
+### Skills Gained
+React.js • JavaScript • HTML • CSS • Git • GitHub • Team Collaboration • Debugging
+
 
 ---
 
