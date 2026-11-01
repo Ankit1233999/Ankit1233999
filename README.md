@@ -34,11 +34,20 @@ B.Tech Computer Science Student | Aspiring Software Engineer
 
 ### 🚀 My Projects
 
-- AgileFlow – Agile Management Tool
-- Amazon Clone
-- College platform
-- E commerce platform project
-- Leet code problem solve
+- **[AgileFlow – Agile Management Tool](https://github.com/Ankit1233999/Agile-management-tool)**  
+  A project management application with workspace management and a Kanban board to organize and track tasks.
+
+- **Amazon Clone**  
+  An Amazon-inspired e-commerce website built to practice frontend development and responsive UI design.
+
+- **[College Platform](https://github.com/Ankit1233999/collage-platform)**  
+  A web application for student authentication, college information, and academic information management using Django and MySQL.
+
+- **[Trendora – E-Commerce Website](https://github.com/Priti2008/Trendora_e_commerce_website)**  
+  A responsive e-commerce website with product browsing and shopping cart functionality.
+
+- **LeetCode – Problem Solving**  
+  Practicing Data Structures and Algorithms using Python and C++, focusing on problem-solving and coding efficiency.
 
 
 ## 💼 Internship Experience
