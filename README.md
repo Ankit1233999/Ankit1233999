@@ -13,22 +13,25 @@ B.Tech Computer Science Student | Aspiring Software Engineer
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE student at JECRC University, Rajasthan
-- 💻 Interested in Software Development and Full-Stack Development
-- 🌱 Currently improving my DSA and development skills
-- 🚀 Building projects using React, Next.js, Django, and MySQL
-- 🎯 Goal: Become a skilled Software Engineer
+- 🎓 B.Tech Computer Science Engineering student at JECRC University, Rajasthan (2023–2027).
+- 💻 Aspiring Software Engineer passionate about Full-Stack Development and problem-solving.
+- 🚀 Currently working as a Web Development Intern at Zaalima Development.
+- 👥 Working as a Team Leader, coordinating tasks and collaborating with team members.
+- 🌱 Strengthening my Data Structures & Algorithms (DSA) and software development skills.
+- 🛠️ Building projects using React.js, Next.js, Node.js, Django, Python, and MySQL.
+- 🧠 Interested in learning new technologies and building real-world applications.
+- 🎯 Goal: To become a skilled Software Engineer and contribute to impactful projects.
 - 📫 GitHub: [Ankit1233999](https://github.com/Ankit1233999)
-
 ---
-
 ### 🛠️ Technical Skills
 
-- Languages: C++, Python, Java, JavaScript
-- Frontend: HTML, CSS, React, Next.js, Tailwind CSS
-- Backend: Node.js, Express.js, Django
-- Database: MySQL
-- Tools: Git, GitHub, VS Code
+- **Programming Languages:** C++, Python, Java, JavaScript
+- **Frontend Development:** HTML5, CSS3, React.js, Next.js, Tailwind CSS
+- **Backend Development:** Node.js, Express.js, Django, REST APIs
+- **Database:** MySQL, Prisma ORM
+- **Developer Tools:** Git, GitHub, VS Code , Vercel
+- **Core Computer Science:** Data Structures & Algorithms (DSA), OOPs, DBMS, Operating Systems, Computer Networks
+- **Other Skills:** Full-Stack Development, Problem Solving, Team Collaboration, Agile Development
 
 ---
 
