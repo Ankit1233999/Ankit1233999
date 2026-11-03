@@ -81,5 +81,8 @@ React.js • JavaScript • HTML • CSS • Git • GitHub • Team Collaborati
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Ankit Saini](https://www.linkedin.com/in/ankit-saini-a063a529b/)
+- 💼 LinkedIn: [Ankit Saini](https://www.linkedin.com/in/ankit-saini-a063a529b/)
+- 💻 GitHub: [Ankit1233999](https://github.com/Ankit1233999)
+- 📧 Email: Available on my LinkedIn profile
 
+Feel free to connect with me for collaboration, projects, and learning opportunities!
