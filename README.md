@@ -55,20 +55,19 @@ B.Tech Computer Science Student | Aspiring Software Engineer
 
 ## 💼 Internship Experience
 
-### Web Development Intern — Zaalima Development
+### Web Development Intern & Team Leader — Zaalima Development
 *August 2026 – Present*
 
-- Working on web development projects and building user-friendly web applications.
-- Developing and improving application features using web technologies.
-- Performing application testing, debugging, and fixing issues.
-- Collaborating with team members to deliver project tasks.
-- Taking team leadership responsibilities by assigning tasks and coordinating team activities.
-- Improving my skills in frontend development, problem-solving, and teamwork.
+- Contributing to the development of responsive and user-friendly web applications.
+- Developing, implementing, and improving application features using modern web technologies.
+- Performing application testing, debugging, and troubleshooting to improve application performance.
+- Collaborating with team members to complete project tasks and achieve development goals.
+- Leading the development team by assigning tasks, distributing responsibilities, and monitoring progress.
+- Coordinating team activities and ensuring timely completion of assigned work.
+- Participating in problem-solving and improving application functionality.
 
 ### Skills Gained
-React.js • JavaScript • HTML • CSS • Git • GitHub • Team Collaboration • Debugging
-
-
+React.js • JavaScript • HTML5 • CSS3 • Node.js • Express.js • Git • GitHub • Team Leadership • Task Management • Debugging • Problem-Solving • Team Collaboration
 ---
 
 ### 📊 GitHub Statistics
